@@ -5,7 +5,8 @@
     {"id":"p3","name":"天真不天真","episode":"EP.112 别把努力当回事","timestamp":"08:45-09:30","quote":"努力是最不值钱的东西，努力做出贡献才值钱","emotion":"醍醐灌顶","tags":["职场","认知"],"used":false},
     {"id":"p4","name":"自我进化论","episode":"EP.37 停止内耗的唯一方法","timestamp":"15:00-16:00","quote":"你大部分的痛苦，不是因为做得不好，而是因为想得太多","emotion":"治愈","tags":["内耗","情绪"],"used":false},
     {"id":"p5","name":"Steve说","episode":"EP.203 原生家庭不是你的错","timestamp":"28:00-29:00","quote":"你可以理解父母，但不必承接他们的情绪","emotion":"释怀","tags":["原生家庭","边界感"],"used":false},
-    {"id":"p6","name":"来都来了","episode":"EP.89 打工而已别上头","timestamp":"10:00-10:45","quote":"一份工作而已，别让它定义你的人生价值","emotion":"通透","tags":["职场","心态"],"used":false}
+    {"id":"p6","name":"来都来了","episode":"EP.89 打工而已别上头","timestamp":"10:00-10:45","quote":"一份工作而已，别让它定义你的人生价值","emotion":"通透","tags":["职场","心态"],"used":false},
+    {"id":"p7","name":"陈鲁豫·慢谈","episode":"EP17 对话刘晓庆：从百花影后到龙套配角","timestamp":"约1:20:00","quote":"我们都是这些珠宝的保管者，不是拥有者。被拿走了？那就由他去。因为我还要往前跑。","emotion":"通透","tags":["向前奔跑","女性成长","顶级自爱"],"used":false}
   ],
   "images": [
     {"id":"img1","name":"黄昏城市剪影","style":"氛围感/孤独","scene":"情绪共鸣类","source":"unsplash"},
