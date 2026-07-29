@@ -1,0 +1,30 @@
+{
+  "podcast": [
+    {"id":"p1","name":"思文败类","episode":"EP.68 爱自己到底是什么","timestamp":"12:30-13:15","quote":"执行力差其实是太惯着自己了，真正的爱自己是尊重内心想变好的渴望","emotion":"醍醐灌顶","tags":["执行力","自我成长"],"used":true},
+    {"id":"p2","name":"岩中花述","episode":"EP.45 母女之间那堵墙","timestamp":"22:00-23:00","quote":"那个给他过生日，不就是你一直期待的妈妈爱你的方式吗","emotion":"扎心","tags":["东亚家庭","母女关系"],"used":true},
+    {"id":"p3","name":"天真不天真","episode":"EP.112 别把努力当回事","timestamp":"08:45-09:30","quote":"努力是最不值钱的东西，努力做出贡献才值钱","emotion":"醍醐灌顶","tags":["职场","认知"],"used":false},
+    {"id":"p4","name":"自我进化论","episode":"EP.37 停止内耗的唯一方法","timestamp":"15:00-16:00","quote":"你大部分的痛苦，不是因为做得不好，而是因为想得太多","emotion":"治愈","tags":["内耗","情绪"],"used":false},
+    {"id":"p5","name":"Steve说","episode":"EP.203 原生家庭不是你的错","timestamp":"28:00-29:00","quote":"你可以理解父母，但不必承接他们的情绪","emotion":"释怀","tags":["原生家庭","边界感"],"used":false},
+    {"id":"p6","name":"来都来了","episode":"EP.89 打工而已别上头","timestamp":"10:00-10:45","quote":"一份工作而已，别让它定义你的人生价值","emotion":"通透","tags":["职场","心态"],"used":false}
+  ],
+  "images": [
+    {"id":"img1","name":"黄昏城市剪影","style":"氛围感/孤独","scene":"情绪共鸣类","source":"unsplash"},
+    {"id":"img2","name":"安静的书桌","style":"治愈/温暖","scene":"自我成长类","source":"unsplash"},
+    {"id":"img3","name":"窗边剪影","style":"思考/安静","scene":"认知升级类","source":"pinterest"},
+    {"id":"img4","name":"极简几何","style":"现代/理性","scene":"职场类","source":"canva"}
+  ],
+  "music": [
+    {"id":"m1","name":"Gymnopédie No.1","artist":"Erik Satie","style":"钢琴/忧伤","emotion":"治愈","source":"网易云","link":"搜索 Gymnopédie No.1"},
+    {"id":"m2","name":"Saman","artist":"Ólafur Arnalds","style":"极简/钢琴弦乐","emotion":"思考","source":"网易云","link":"搜索 Ólafur Arnalds Saman"},
+    {"id":"m3","name":"River Flows in You","artist":"Yiruma","style":"钢琴/温暖","emotion":"治愈","source":"QQ音乐","link":"搜索 River Flows in You"},
+    {"id":"m4","name":"Comptine","artist":"Yann Tiersen","style":"钢琴/叙事","emotion":"怀旧","source":"网易云","link":"搜索 Comptine"},
+    {"id":"m5","name":"剪映-安静的夜","artist":"剪映音乐库","style":"轻音乐/安静","emotion":"安静","source":"剪映","link":"剪映音乐库搜索「安静的夜」"}
+  ],
+  "topics": [
+    {"id":"tp1","name":"停止内耗","heat":"🔥 持续高热","trend":"稳定上升","suitable":"自我成长类播客","note":"长期有效话题，每周可切1-2条"},
+    {"id":"tp2","name":"东亚家庭关系","heat":"🔥🔥 近期爆发","trend":"急速上升","suitable":"岩中花述/思文败类","note":"原生家庭+母女关系双标签叠加"},
+    {"id":"tp3","name":"INFJ/INFP人格","heat":"🔥 长期热门","trend":"稳定","suitable":"MBTI相关播客","note":"自带流量标签，评论区互动高"},
+    {"id":"tp4","name":"打工而已别上头","heat":"🔥🔥 近期爆发","trend":"上升","suitable":"职场类播客","note":"配合#打工人 #职场 双标签"},
+    {"id":"tp5","name":"真正的爱自己","heat":"🔥 长期热门","trend":"稳定","suitable":"任何播客","note":"知愈小馆核心选题方向"}
+  ]
+}

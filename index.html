@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>王鹤工作台 · 播客切片号</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- 侧边导航 -->
+<aside class="sidebar">
+  <div class="sidebar-header">
+    <div class="logo">
+      <span class="icon">🎬</span>
+      <span>王鹤工作台</span>
+    </div>
+    <div class="subtitle">播客切片号 · 全流程管理</div>
+  </div>
+  <nav class="sidebar-nav">
+    <button class="nav-item active" data-module="tasks">
+      <span class="nav-icon">📋</span> 任务看板
+      <span class="badge" id="todo-count">0</span>
+    </button>
+    <button class="nav-item" data-module="hotspot">
+      <span class="nav-icon">🔥</span> 抖音热点
+    </button>
+    <button class="nav-item" data-module="review">
+      <span class="nav-icon">📊</span> 内容复盘
+    </button>
+    <button class="nav-item" data-module="inspiration">
+      <span class="nav-icon">💡</span> 灵感来源
+    </button>
+    <button class="nav-item" data-module="library">
+      <span class="nav-icon">📚</span> 素材库
+    </button>
+  </nav>
+  <div class="sidebar-footer">
+    🎯 知愈小馆 对标 · 播客切片
+  </div>
+</aside>
+
+<!-- 主内容 -->
+<main class="main-content">
+  <header class="topbar">
+    <h1 class="page-title" id="page-title">每日任务看板</h1>
+    <div class="topbar-right">
+      <span class="date-display" id="date-display"></span>
+      <span class="streak">🔥 连续创作 0 天</span>
+    </div>
+  </header>
+  <div class="content-area">
+    <div class="module-page active" id="page-tasks"></div>
+    <div class="module-page" id="page-hotspot"></div>
+    <div class="module-page" id="page-review"></div>
+    <div class="module-page" id="page-inspiration"></div>
+    <div class="module-page" id="page-library"></div>
+  </div>
+</main>
+
+<!-- 全局模态框 -->
+<div class="modal-overlay" id="global-modal" onclick="if(event.target===this)this.classList.remove('active')">
+  <div class="modal">
+    <div class="modal-content"></div>
+  </div>
+</div>
+
+<script src="js/tasks.js"></script>
+<script src="js/hotspot.js"></script>
+<script src="js/review.js"></script>
+<script src="js/inspiration.js"></script>
+<script src="js/library.js"></script>
+<script src="js/app.js"></script>
+
+</body>
+</html>

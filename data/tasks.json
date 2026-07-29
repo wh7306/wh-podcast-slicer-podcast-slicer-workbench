@@ -1,0 +1,9 @@
+[
+  {"id":"t1","title":"听播客标记金句","desc":"选1期播客，标记3-5个金句时间戳","status":"todo","category":"选题","priority":"high","createdAt":"2026-07-29T00:00:00Z"},
+  {"id":"t2","title":"转文字提取金句","desc":"用通义听悟/飞书妙记转文字，提取3条可用的金句","status":"todo","category":"选题","priority":"high","createdAt":"2026-07-29T00:00:00Z"},
+  {"id":"t3","title":"剪辑视频（1-2条）","desc":"选最好的金句片段，剪映制作15-45秒视频","status":"todo","category":"剪辑","priority":"high","createdAt":"2026-07-29T00:00:00Z"},
+  {"id":"t4","title":"发布视频+文案","desc":"抖音发布，配上文案和话题标签","status":"todo","category":"发布","priority":"medium","createdAt":"2026-07-29T00:00:00Z"},
+  {"id":"t5","title":"数据复盘","desc":"查看昨日视频数据，记录到复盘表","status":"todo","category":"复盘","priority":"medium","createdAt":"2026-07-29T00:00:00Z"},
+  {"id":"t6","title":"刷同赛道账号","desc":"看10个同类播客切片号，记录选题灵感","status":"todo","category":"选题","priority":"low","createdAt":"2026-07-29T00:00:00Z"},
+  {"id":"t7","title":"更新素材库","desc":"新增播客片段/背景图/BGM到素材库","status":"todo","category":"素材","priority":"low","createdAt":"2026-07-29T00:00:00Z"}
+]
